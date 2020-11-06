@@ -6,19 +6,19 @@
 		// two entries: an across entry and a down entry
 		var puzzleData = [
 			 	{
-					clue: "First letter of greek alphabet",
-					answer: "alpha",
+					clue: "Härifrån fick Ida klamydia",
+					answer: "Biltema",
 					position: 1,
 					orientation: "across",
 					startx: 1,
 					starty: 1
 				},
 			 	{
-					clue: "Not a one ___ motor, but a three ___ motor",
-					answer: "phase",
-					position: 3,
+					clue: "Här träffade Ida skåningarna för första gången",
+					answer: "emmaboda",
+					position: 2,
 					orientation: "across",
-					startx: 7,
+					startx: 9,
 					starty: 1
 				},
 				{
@@ -30,27 +30,27 @@
 					starty: 3
 				},
 				{
-					clue: "The speeds of engines without and accelaration",
-					answer: "idlespeeds",
+					clue: "Vad vinner Ida alltid i?",
+					answer: "uno",
 					position: 8,
 					orientation: "across",
-					startx: 1,
+					startx: 9,
 					starty: 5
 				},
 				{
-					clue: "Complex resistances",
-					answer: "impedances",
+					clue: "Fågelröv",
+					answer: "gump",
 					position: 10,
 					orientation: "across",	
-					startx: 2,
+					startx: 1,
 					starty: 7
 				},
 				{
-					clue: "This device is used to step-up, step-down, and/or isolate",
-					answer: "transformer",
+					clue: "Idas nuvarande yrke",
+					answer: "målare",
 					position: 13,
 					orientation: "across",
-					startx: 1,
+					startx: 5,
 					starty: 9
 				},
 				{
@@ -70,52 +70,52 @@
 					starty: 11
 				},
 				{
-					clue: "Defines the alpha-numeric characters that are typically associated with text used in programming",
-					answer: "ascii",
+					clue: "Vem vill slicka Idas fötter",
+					answer: "Battulga",
 					position: 1,
 					orientation: "down",
 					startx: 1,
 					starty: 1
 				},
 				{
-					clue: "Generally, if you go over 1kV per cm this happens",
-					answer: "arc",
+					clue: "Den här sliten har Daniel",
+					answer: "emo",
 					position: 2,
 					orientation: "down",
 					startx: 5,
 					starty: 1
 				},
 				{
-					clue: "Control system strategy that tries to replicate the human through process (abbr.)",
-					answer: "ann",
+					clue: "Här härstammar Idas katt ifrån",
+					answer: "mumindalen",
 					position: 4,
 					orientation: "down",
-					startx: 9,
+					startx: 10,
 					starty: 1
 				},
 				{
-					clue: "Greek variable that usually describes rotor positon",
-					answer: "theta",
+					clue: "Här härstammar Idas katt ifrån",
+					answer: "Mumin",
 					position: 6,
 					orientation: "down",
-					startx: 7,
+					startx: 8,
 					starty: 3
 				},
 				{
-					clue: "Electromagnetic (abbr.)",
-					answer: "em",
+					clue: "Vad brukar finnas i Idas mun",
+					answer: "snus",
 					position: 7,
 					orientation: "down",
-					startx: 11,
+					startx: 9,
 					starty: 3
 				},
 				{
-					clue: "No. 13 across does this to a voltage",
-					answer: "steps",
+					clue: "Idas true identity",
+					answer: "darling",
 					position: 9,
 					orientation: "down",
-					startx: 5,
-					starty: 5
+					startx: 15,
+					starty: 1
 				},
 				{
 					clue: "Emits a lout wailing sound",
@@ -142,11 +142,11 @@
 					starty: 9
 				},
 				{
-					clue: "Offset current control (abbr.)",
-					answer: "occ",
+					clue: "Idas favoritfisk",
+					answer: "ål",
 					position: 15,
 					orientation: "down",
-					startx: 7,
+					startx: 6,
 					starty: 9
 				}
 			] 

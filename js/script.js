@@ -6,7 +6,7 @@
 		// two entries: an across entry and a down entry
 		var puzzleData = [
 			 	{
-					clue: "Härifrån fick Ida klamydia",
+					clue: "Denne delade med sig av sin klamydia",
 					answer: "Biltema",
 					position: 1,
 					orientation: "across",
@@ -21,18 +21,11 @@
 					startx: 9,
 					starty: 1
 				},
-				{
-					clue: "Created from a separation of charge",
-					answer: "capacitance",
-					position: 5,
-					orientation: "across",
-					startx: 1,
-					starty: 3
-				},
+				
 				{
 					clue: "Vad vinner Ida alltid i?",
 					answer: "uno",
-					position: 8,
+					position: 3,
 					orientation: "across",
 					startx: 9,
 					starty: 5
@@ -53,22 +46,7 @@
 					startx: 5,
 					starty: 9
 				},
-				{
-					clue: "Type of ray emitted frm the sun",
-					answer: "gamma",
-					position: 16,
-					orientation: "across",
-					startx: 1,
-					starty: 11
-				},
-				{
-					clue: "C programming language operator",
-					answer: "cysan",
-					position: 17,
-					orientation: "across",
-					startx: 7,
-					starty: 11
-				},
+
 				{
 					clue: "Vem vill slicka Idas fötter",
 					answer: "Battulga",
@@ -94,12 +72,12 @@
 					starty: 1
 				},
 				{
-					clue: "Här härstammar Idas katt ifrån",
-					answer: "Mumin",
+					clue: "Det här presenterade Ida sig som för skåningarna första gången",
+					answer: "slida",
 					position: 6,
-					orientation: "down",
-					startx: 8,
-					starty: 3
+					orientation: "across",
+					startx: 3,
+					starty: 5
 				},
 				{
 					clue: "Vad brukar finnas i Idas mun",
@@ -117,30 +95,9 @@
 					startx: 15,
 					starty: 1
 				},
-				{
-					clue: "Emits a lout wailing sound",
-					answer: "siren",
-					position: 11,
-					orientation: "down",
-					startx: 11,
-					starty: 7
-				},
-				{
-					clue: "Information technology (abbr.)",
-					answer: "it",
-					position: 12,
-					orientation: "down",
-					startx: 1,
-					starty: 8
-				},
-				{
-					clue: "Asynchronous transfer mode (abbr.)",
-					answer: "atm",
-					position: 14,
-					orientation: "down",
-					startx: 3,
-					starty: 9
-				},
+				
+	
+				
 				{
 					clue: "Idas favoritfisk",
 					answer: "ål",
